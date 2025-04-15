@@ -1,3 +1,3 @@
 # sahil-demo
 this is my first repo
-author - Saahil Sharma
+author - Saahil Sharma College Student
